@@ -8,8 +8,6 @@ LecturerHub merupakan aplikasi web sederhana untuk mengelola data dosen dan depa
 
 Aplikasi menyediakan operasi CRUD (Create, Read, Update, Delete) untuk data dosen maupun data departemen. Database juga dilengkapi data contoh agar halaman dapat langsung dicoba setelah database diimpor.
 
----
-
 ## Janji
 Saya **Vanisha Septiani Auliaputri** dengan **NIM 2510735** mengerjakan Tugas Praktikum 8 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
@@ -257,6 +255,5 @@ Beberapa mekanisme yang diterapkan pada aplikasi:
 
 Dokumentasi hasil aplikasi menggunakan **satu video demonstrasi** yang memperlihatkan penggunaan LecturerHub dan pemeriksaan database. Video disimpan di folder `Dokumentasi`.
 
-**[Buka video demo LecturerHub](Dokumentasi/demo.mp4)**
-
+https://github.com/user-attachments/assets/36df99e1-8642-476f-8465-d7fd6897968a
 ---
