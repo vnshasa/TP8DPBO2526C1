@@ -202,18 +202,7 @@ Tabel `lecturers` menyimpan informasi dosen. Kolom `department_id` ditambahkan u
 
 Relasi yang digunakan adalah **one-to-many**: satu departemen dapat memiliki beberapa dosen. Setiap dosen dapat terhubung ke paling banyak satu departemen melalui `lecturers.department_id`. Karena kolom tersebut boleh `NULL`, dosen juga dapat tersimpan tanpa departemen.
 
-```text
-DEPARTMENTS                              LECTURERS
-+-------------------------+              +-------------------------+
-| PK  id                  |  1        N  | PK  id                  |
-|     department_name     |--------------|     name                |
-|     faculty             |              |     nidn                |
-|     office_room         |              |     phone               |
-|     created_at          |              |     join_date            |
-+-------------------------+              | FK  department_id       |
-                                         |     created_at          |
-                                         +-------------------------+
-```
+<img width="651" height="286" alt="Relasi Tabel" src="https://github.com/user-attachments/assets/80e45cfd-b4a1-4a5f-b6b7-f4bf1330af5c" />
 
 Detail foreign key:
 
