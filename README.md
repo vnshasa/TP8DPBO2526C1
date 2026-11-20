@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/a0d11641-77e5-469a-9af7-e8198b984e27
 # TP8DPBO2526C1 — LecturerHub
 
 **Tugas Praktikum 8 · Desain dan Pemrograman Berbasis Objek (DPBO)**  
