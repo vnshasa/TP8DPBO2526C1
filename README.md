@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a0d11641-77e5-469a-9af7-e8198b984e27
 # TP8DPBO2526C1 — LecturerHub
 
 **Tugas Praktikum 8 · Desain dan Pemrograman Berbasis Objek (DPBO)**  
@@ -255,5 +257,4 @@ Beberapa mekanisme yang diterapkan pada aplikasi:
 
 Dokumentasi hasil aplikasi menggunakan **satu video demonstrasi** yang memperlihatkan penggunaan LecturerHub dan pemeriksaan database. Video disimpan di folder `Dokumentasi`.
 
-https://github.com/user-attachments/assets/2bc10350-4f70-4d9f-bf0d-c881f1f3bf6c
-
+https://github.com/user-attachments/assets/7f7fd92d-9b11-4d60-9928-59ccfe109fee
