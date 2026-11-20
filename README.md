@@ -255,5 +255,5 @@ Beberapa mekanisme yang diterapkan pada aplikasi:
 
 Dokumentasi hasil aplikasi menggunakan **satu video demonstrasi** yang memperlihatkan penggunaan LecturerHub dan pemeriksaan database. Video disimpan di folder `Dokumentasi`.
 
-https://github.com/user-attachments/assets/36df99e1-8642-476f-8465-d7fd6897968a
----
+https://github.com/user-attachments/assets/2bc10350-4f70-4d9f-bf0d-c881f1f3bf6c
+
